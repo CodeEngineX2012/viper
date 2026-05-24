@@ -6,29 +6,30 @@
 1. Clone the Github repository:
 
 
-* **bash/cmd**
+* **Clone the Github Repository**
 ```text
-  ```bash/cmd
+  bash|cmd
 git clone https://github.com/codeenginex2012/viper.git
   ```
 
-* **bash/cmd**
+* **Change directory to Viper**
 ```text
-  ```bash/cmd
+  ```bash|cmd
 cd viper
   ```
 
-* **bash/cmd**
+* **Run your Viper script**
 ```text
-  ```bash/cmd
-compile.exe {viper_file}
+  ```bash|cmd
+compile.exe {filename}.vi
   ```
 
-* **bash/cmd**
+* **Sample code is given to test**
 ```text
-  ```bash/cmd
+  ```bash|cmd
 compile.exe sample.vi
   ```
 
 **Built by Skyzen Labs**
+<br>
 **(c) 2026 Skyzen Labs. Open-source**
