@@ -1,0 +1,17 @@
+@start(myApp)
+
+store user {
+    fname = "Hello";
+    lname = "World";
+}
+
+store messages {
+    message1 = "Hello";
+}
+
+func myApp() {
+    out(user.fname)
+    out(user.lname)
+    out(messages.message1)
+    out("Hello")    
+}
